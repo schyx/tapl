@@ -1,0 +1,10 @@
+[custom.all.tapl]
+type = "local"
+path = "."
+ipkg = "tapl.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.tapl-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
